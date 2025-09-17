@@ -1,0 +1,1821 @@
+
+--- Prediction Run at 2025-09-17 20:52:13.448307 ---
+Location: Howrah
+MinTemp: 23.008291768921282
+MaxTemp: 38.336115039903454
+Rainfall: 10.33314088150295
+Evaporation: 1.6167662743383493
+Sunshine: 1.1994329593311204
+WindGustDir: NNW
+WindGustSpeed: 21.51773175409889
+WindDir9am: E
+WindDir3pm: ENE
+WindSpeed9am: 15.032697569332031
+WindSpeed3pm: 16.619908347602358
+Humidity9am: 48.541728841628355
+Humidity3pm: 36.212459264284355
+Pressure9am: 1014.6200635864411
+Pressure3pm: 1018.0339369806493
+Cloud9am: 4.416679133982584
+Cloud3pm: 3.9663134008601775
+Temp9am: 18.330812814223364
+Temp3pm: 37.03171964702398
+RainToday: No
+
+--- Prediction Run at 2025-09-17 20:52:55.723578 ---
+Location: Paschim Medinipur
+MinTemp: 14.76682414714284
+MaxTemp: 26.90481959834794
+Rainfall: 14.839495715285071
+Evaporation: 6.695098851417123
+Sunshine: 2.992310940923849
+WindGustDir: E
+WindGustSpeed: 28.316688033472644
+WindDir9am: NNE
+WindDir3pm: WSW
+WindSpeed9am: 15.521815588201918
+WindSpeed3pm: 15.019704924693032
+Humidity9am: 48.25334036620431
+Humidity3pm: 35.825781941340786
+Pressure9am: 1002.4126210164029
+Pressure3pm: 1012.4780372194355
+Cloud9am: 3.8865837810347195
+Cloud3pm: 6.738734664522651
+Temp9am: 18.85121137311007
+Temp3pm: 33.66882842275975
+RainToday: Yes
+Prediction (RainTomorrow): None
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:53:09.113951 ---
+Location: Malda
+MinTemp: 20.83247268173427
+MaxTemp: 27.683576278914614
+Rainfall: 0.7025554389219857
+Evaporation: 2.5115469878307284
+Sunshine: 4.415565697521099
+WindGustDir: E
+WindGustSpeed: 42.18066942251023
+WindDir9am: WNW
+WindDir3pm: SW
+WindSpeed9am: 19.13228754611265
+WindSpeed3pm: 16.579654676151343
+Humidity9am: 84.97761858677583
+Humidity3pm: 79.67021895495623
+Pressure9am: 1004.8558891928783
+Pressure3pm: 1008.1356147089513
+Cloud9am: 0.12859550002428133
+Cloud3pm: 7.499264063198213
+Temp9am: 34.5666617977038
+Temp3pm: 21.628526172039347
+RainToday: No
+Prediction (RainTomorrow): None
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:54:40.034282 ---
+Location: Uttar Dinajpur
+MinTemp: 14.694536093560576
+MaxTemp: 30.426569411605197
+Rainfall: 3.834617647472205
+Evaporation: 3.8793401115231294
+Sunshine: 4.005757452760305
+WindGustDir: NW
+WindGustSpeed: 45.50956845857457
+WindDir9am: NW
+WindDir3pm: ENE
+WindSpeed9am: 7.419618900098609
+WindSpeed3pm: 6.825567856002461
+Humidity9am: 69.34112033610313
+Humidity3pm: 41.61654065537715
+Pressure9am: 1008.657888520568
+Pressure3pm: 1011.5024958450365
+Cloud9am: 2.0562707099494064
+Cloud3pm: 5.973528128154564
+Temp9am: 24.281062802194526
+Temp3pm: 31.75662286632006
+RainToday: No
+
+--- Prediction Run at 2025-09-17 20:54:58.704896 ---
+Location: Kolkata
+MinTemp: 18.909045225024684
+MaxTemp: 28.809695154771187
+Rainfall: 4.156259072377814
+Evaporation: 4.404444926888242
+Sunshine: 1.5267490826356245
+WindGustDir: NE
+WindGustSpeed: 43.8989250165685
+WindDir9am: NE
+WindDir3pm: E
+WindSpeed9am: 9.982743076761647
+WindSpeed3pm: 7.204370953245823
+Humidity9am: 74.58556894882335
+Humidity3pm: 56.48718363637657
+Pressure9am: 1014.8664476234663
+Pressure3pm: 1012.6715880477002
+Cloud9am: 2.832414133853792
+Cloud3pm: 0.6010078482957031
+Temp9am: 33.79308394788571
+Temp3pm: 35.05738326684857
+RainToday: Yes
+Prediction (RainTomorrow): 58.23420349480523
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:27.955671 ---
+Location: Howrah
+MinTemp: 21.524465857476883
+MaxTemp: 27.757426238924594
+Rainfall: 17.319706105542807
+Evaporation: 1.5410994996361427
+Sunshine: 1.4705013519215415
+WindGustDir: SW
+WindGustSpeed: 48.318392811750755
+WindDir9am: W
+WindDir3pm: SW
+WindSpeed9am: 7.2556979076618795
+WindSpeed3pm: 9.304383519803869
+Humidity9am: 33.16872943989726
+Humidity3pm: 78.7438457152983
+Pressure9am: 1015.912256708919
+Pressure3pm: 1013.5775839202595
+Cloud9am: 1.5900207857418982
+Cloud3pm: 6.5699987005359946
+Temp9am: 22.946971317878944
+Temp3pm: 33.909986934003115
+RainToday: No
+Prediction (RainTomorrow): 7.53%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:41.408865 ---
+Location: Jhargram
+MinTemp: 14.376011545386458
+MaxTemp: 35.41423533948062
+Rainfall: 14.339399562761681
+Evaporation: 2.048926870534559
+Sunshine: 9.856194546990087
+WindGustDir: NE
+WindGustSpeed: 20.344333228176442
+WindDir9am: NE
+WindDir3pm: WNW
+WindSpeed9am: 11.952060409939559
+WindSpeed3pm: 15.7132812275184
+Humidity9am: 31.158856941105167
+Humidity3pm: 72.72446280274374
+Pressure9am: 1018.7110125563726
+Pressure3pm: 1009.8817105294354
+Cloud9am: 6.551801366822695
+Cloud3pm: 0.7076075276046074
+Temp9am: 18.516670977720477
+Temp3pm: 26.748269671047783
+RainToday: No
+Prediction (RainTomorrow): 8.56%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:41.910301 ---
+Location: Jalpaiguri
+MinTemp: 13.19228266467528
+MaxTemp: 29.36748390618523
+Rainfall: 19.618844606514532
+Evaporation: 3.9706795575306977
+Sunshine: 3.879887582515699
+WindGustDir: N
+WindGustSpeed: 24.73952762167577
+WindDir9am: E
+WindDir3pm: SW
+WindSpeed9am: 10.239702046789134
+WindSpeed3pm: 13.723544166055886
+Humidity9am: 68.05427516388781
+Humidity3pm: 38.068634355128665
+Pressure9am: 1012.5094007902031
+Pressure3pm: 1011.3687457607117
+Cloud9am: 0.6902383444968816
+Cloud3pm: 6.823218730208
+Temp9am: 31.488836537912903
+Temp3pm: 29.806226530896968
+RainToday: Yes
+Prediction (RainTomorrow): 54.25%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:42.974117 ---
+Location: Paschim Bardhaman
+MinTemp: 23.81340728057399
+MaxTemp: 33.43847694937355
+Rainfall: 18.397317923649204
+Evaporation: 8.2264755611288
+Sunshine: 1.5510362868300187
+WindGustDir: ENE
+WindGustSpeed: 48.70166531848835
+WindDir9am: WSW
+WindDir3pm: SSW
+WindSpeed9am: 8.59043740973001
+WindSpeed3pm: 17.41348488482641
+Humidity9am: 34.31292452114075
+Humidity3pm: 44.08272635957235
+Pressure9am: 1014.1259295602
+Pressure3pm: 1015.4805247074789
+Cloud9am: 1.9901319468250014
+Cloud3pm: 6.134809846304595
+Temp9am: 17.124486315016817
+Temp3pm: 23.8225678641534
+RainToday: Yes
+Prediction (RainTomorrow): 55.74%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:44.009199 ---
+Location: Darjeeling
+MinTemp: 13.791051591803964
+MaxTemp: 39.8220253210518
+Rainfall: 16.349516494789903
+Evaporation: 4.1176953962497365
+Sunshine: 5.884871362491994
+WindGustDir: NW
+WindGustSpeed: 45.69068177522067
+WindDir9am: WNW
+WindDir3pm: S
+WindSpeed9am: 8.396591216715814
+WindSpeed3pm: 16.72398588324311
+Humidity9am: 42.7055347608517
+Humidity3pm: 49.863091788843796
+Pressure9am: 1010.4795887796178
+Pressure3pm: 1015.0947648662147
+Cloud9am: 3.0958804853809108
+Cloud3pm: 1.6865118774475718
+Temp9am: 19.487088621705745
+Temp3pm: 38.52219255563806
+RainToday: Yes
+Prediction (RainTomorrow): 52.11%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:44.890820 ---
+Location: Bankura
+MinTemp: 19.99018910886322
+MaxTemp: 39.9037748179151
+Rainfall: 16.906231772370038
+Evaporation: 4.300605618200879
+Sunshine: 5.0933915256371645
+WindGustDir: NNE
+WindGustSpeed: 22.14495549444998
+WindDir9am: SE
+WindDir3pm: NNW
+WindSpeed9am: 13.841068720768709
+WindSpeed3pm: 7.707090886938748
+Humidity9am: 44.795577400610235
+Humidity3pm: 54.30586627232509
+Pressure9am: 1006.8378508867827
+Pressure3pm: 1001.9019826758465
+Cloud9am: 4.663846087863844
+Cloud3pm: 0.1855466595734745
+Temp9am: 29.63963654617694
+Temp3pm: 28.550540542558938
+RainToday: No
+Prediction (RainTomorrow): 7.51%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:45.818602 ---
+Location: Paschim Medinipur
+MinTemp: 24.14723364763492
+MaxTemp: 36.46620175693323
+Rainfall: 3.9345159716928
+Evaporation: 5.962802547621493
+Sunshine: 4.77735598703612
+WindGustDir: NE
+WindGustSpeed: 27.726110831027313
+WindDir9am: NE
+WindDir3pm: SSE
+WindSpeed9am: 14.814998149436697
+WindSpeed3pm: 12.748236643639265
+Humidity9am: 30.34044872580503
+Humidity3pm: 47.18278924431724
+Pressure9am: 1011.2027628423047
+Pressure3pm: 1009.7096274323618
+Cloud9am: 4.7997620456976176
+Cloud3pm: 7.702763163822738
+Temp9am: 28.854219024965964
+Temp3pm: 35.67046584902342
+RainToday: No
+Prediction (RainTomorrow): 9.78%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:47.497841 ---
+Location: Howrah
+MinTemp: 10.514973417726717
+MaxTemp: 26.63005766542629
+Rainfall: 14.221966940433031
+Evaporation: 2.4213563176078976
+Sunshine: 1.2427775925307638
+WindGustDir: SW
+WindGustSpeed: 41.12542363179965
+WindDir9am: E
+WindDir3pm: SSW
+WindSpeed9am: 17.816910555144393
+WindSpeed3pm: 5.715110214417267
+Humidity9am: 40.52418693842648
+Humidity3pm: 37.73623646449486
+Pressure9am: 1012.7282777640688
+Pressure3pm: 1011.1229787464716
+Cloud9am: 3.3575296158632053
+Cloud3pm: 7.849947672480562
+Temp9am: 18.948882218372486
+Temp3pm: 38.49033627123242
+RainToday: Yes
+Prediction (RainTomorrow): 55.28%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:48.430385 ---
+Location: Bankura
+MinTemp: 23.27397868507282
+MaxTemp: 29.142282851343055
+Rainfall: 8.583378851707037
+Evaporation: 5.537443374223193
+Sunshine: 9.352455347404982
+WindGustDir: SSW
+WindGustSpeed: 48.37975558124511
+WindDir9am: NNW
+WindDir3pm: W
+WindSpeed9am: 10.490535840638032
+WindSpeed3pm: 5.940507104158723
+Humidity9am: 79.39503356187336
+Humidity3pm: 82.48535077034632
+Pressure9am: 1001.0633662483085
+Pressure3pm: 1016.2764441006011
+Cloud9am: 0.1818813289840513
+Cloud3pm: 0.49852571259177214
+Temp9am: 16.759224163418967
+Temp3pm: 29.586586605967035
+RainToday: No
+Prediction (RainTomorrow): 7.46%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:49.403592 ---
+Location: Jalpaiguri
+MinTemp: 19.750458613257422
+MaxTemp: 30.162733146585065
+Rainfall: 15.99880678884398
+Evaporation: 2.3354556471879038
+Sunshine: 2.273118642693511
+WindGustDir: SW
+WindGustSpeed: 28.21326851821133
+WindDir9am: ESE
+WindDir3pm: SE
+WindSpeed9am: 17.43793738393972
+WindSpeed3pm: 10.32366128408128
+Humidity9am: 81.89290805316267
+Humidity3pm: 83.46910955895643
+Pressure9am: 1010.3540453132073
+Pressure3pm: 1002.461395860352
+Cloud9am: 7.503255853216209
+Cloud3pm: 2.317700602382587
+Temp9am: 17.77698838821393
+Temp3pm: 21.255558550188777
+RainToday: No
+Prediction (RainTomorrow): 7.84%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:50.433077 ---
+Location: Uttar Dinajpur
+MinTemp: 14.617885307765073
+MaxTemp: 29.40857503292594
+Rainfall: 7.15761678025328
+Evaporation: 5.691867688744229
+Sunshine: 4.467307381575011
+WindGustDir: NW
+WindGustSpeed: 40.09146725044582
+WindDir9am: NW
+WindDir3pm: SW
+WindSpeed9am: 15.247205614300317
+WindSpeed3pm: 11.404007427116643
+Humidity9am: 40.099948454183824
+Humidity3pm: 71.97824373772448
+Pressure9am: 1014.6858284569844
+Pressure3pm: 1018.5199630037501
+Cloud9am: 7.408938657168016
+Cloud3pm: 0.8222593860394865
+Temp9am: 31.02283611747118
+Temp3pm: 32.523625950516845
+RainToday: No
+Prediction (RainTomorrow): 7.22%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:51.325027 ---
+Location: Dakshin Dinajpur
+MinTemp: 12.349347711803166
+MaxTemp: 38.80701308677179
+Rainfall: 9.06343434399087
+Evaporation: 4.418935870841219
+Sunshine: 8.257693803902015
+WindGustDir: NNW
+WindGustSpeed: 25.437858473110957
+WindDir9am: NE
+WindDir3pm: NNW
+WindSpeed9am: 5.841083533642445
+WindSpeed3pm: 9.598339709089824
+Humidity9am: 86.25975019447762
+Humidity3pm: 72.82912591151839
+Pressure9am: 1013.3792571773795
+Pressure3pm: 1015.2072474840871
+Cloud9am: 7.2426642215524755
+Cloud3pm: 2.674056618855408
+Temp9am: 32.824206350430664
+Temp3pm: 22.59476790498085
+RainToday: Yes
+Prediction (RainTomorrow): 54.54%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:52.202798 ---
+Location: Purba Bardhaman
+MinTemp: 13.827214252054738
+MaxTemp: 27.18545736161037
+Rainfall: 3.3343761132682914
+Evaporation: 9.338540291010718
+Sunshine: 5.6151097293050825
+WindGustDir: SSE
+WindGustSpeed: 40.07846815064457
+WindDir9am: S
+WindDir3pm: SSE
+WindSpeed9am: 10.781621237535706
+WindSpeed3pm: 15.016606446586449
+Humidity9am: 60.635718766912134
+Humidity3pm: 73.42156759032996
+Pressure9am: 1006.4612597775982
+Pressure3pm: 1016.7921998300686
+Cloud9am: 3.714446274382426
+Cloud3pm: 5.0309039774273465
+Temp9am: 22.375411956412893
+Temp3pm: 28.18475845336217
+RainToday: No
+Prediction (RainTomorrow): 8.14%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:53.091697 ---
+Location: Purba Bardhaman
+MinTemp: 16.14446269482852
+MaxTemp: 29.196268000819384
+Rainfall: 6.095235155052913
+Evaporation: 8.821860741662256
+Sunshine: 9.044970054847921
+WindGustDir: SSE
+WindGustSpeed: 40.318981615893655
+WindDir9am: SSE
+WindDir3pm: N
+WindSpeed9am: 18.06253712302015
+WindSpeed3pm: 11.31432461720111
+Humidity9am: 82.38426733465928
+Humidity3pm: 61.566542718576144
+Pressure9am: 1016.3071385877989
+Pressure3pm: 1000.0453274504828
+Cloud9am: 2.5865808242856607
+Cloud3pm: 3.336948969608641
+Temp9am: 24.454099982143767
+Temp3pm: 33.47538565180733
+RainToday: Yes
+Prediction (RainTomorrow): 54.89%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:54.121325 ---
+Location: Jhargram
+MinTemp: 13.798571409816567
+MaxTemp: 38.617694725439485
+Rainfall: 12.13228028850307
+Evaporation: 7.370041666311369
+Sunshine: 2.2599396757243184
+WindGustDir: S
+WindGustSpeed: 42.65027016062763
+WindDir9am: NW
+WindDir3pm: S
+WindSpeed9am: 12.811330645401263
+WindSpeed3pm: 18.238605568233318
+Humidity9am: 59.96356146796866
+Humidity3pm: 32.781905712390376
+Pressure9am: 1001.8053371644432
+Pressure3pm: 1007.1218571409701
+Cloud9am: 5.618790469979857
+Cloud3pm: 5.982324947522038
+Temp9am: 23.707317134535494
+Temp3pm: 22.26366894404856
+RainToday: No
+Prediction (RainTomorrow): 7.50%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:55.067149 ---
+Location: Murshidabad
+MinTemp: 22.938276730316804
+MaxTemp: 31.376268978667554
+Rainfall: 3.6897399227775685
+Evaporation: 6.4319859752593
+Sunshine: 7.499545525796657
+WindGustDir: N
+WindGustSpeed: 22.117321240688863
+WindDir9am: WSW
+WindDir3pm: NNW
+WindSpeed9am: 11.145749626744482
+WindSpeed3pm: 16.453127197354704
+Humidity9am: 81.01555161390075
+Humidity3pm: 40.32038430977566
+Pressure9am: 1004.2409288648481
+Pressure3pm: 1004.3910609565756
+Cloud9am: 2.1782980462897283
+Cloud3pm: 4.395219460955914
+Temp9am: 23.28911584632364
+Temp3pm: 20.20745258907931
+RainToday: No
+Prediction (RainTomorrow): 8.62%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:56.110981 ---
+Location: Bankura
+MinTemp: 23.067250347909713
+MaxTemp: 39.33568764451147
+Rainfall: 4.810677656371194
+Evaporation: 2.586821222032294
+Sunshine: 4.330695019139579
+WindGustDir: NE
+WindGustSpeed: 29.91156950206777
+WindDir9am: NW
+WindDir3pm: SE
+WindSpeed9am: 10.200537308457115
+WindSpeed3pm: 9.178496384057105
+Humidity9am: 45.3620832264713
+Humidity3pm: 44.41663169350001
+Pressure9am: 1009.3085640835482
+Pressure3pm: 1007.9917731888166
+Cloud9am: 4.923019508736425
+Cloud3pm: 7.541683433498735
+Temp9am: 26.407965021647332
+Temp3pm: 24.344861454949648
+RainToday: Yes
+Prediction (RainTomorrow): 53.94%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:57.077687 ---
+Location: Jalpaiguri
+MinTemp: 24.53312218142559
+MaxTemp: 25.575108439336148
+Rainfall: 1.3023181563724395
+Evaporation: 0.46436400827618907
+Sunshine: 8.87478471851508
+WindGustDir: S
+WindGustSpeed: 27.040440560264727
+WindDir9am: SW
+WindDir3pm: ENE
+WindSpeed9am: 10.85442329261668
+WindSpeed3pm: 5.597234928235911
+Humidity9am: 56.08140747127146
+Humidity3pm: 74.42710171738497
+Pressure9am: 1013.2942231362006
+Pressure3pm: 1010.4399168441697
+Cloud9am: 4.58403532277008
+Cloud3pm: 3.3683079563298923
+Temp9am: 17.092704532764234
+Temp3pm: 20.354407414241873
+RainToday: Yes
+Prediction (RainTomorrow): 49.77%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:58.063106 ---
+Location: Howrah
+MinTemp: 22.555587703260436
+MaxTemp: 34.34255789767095
+Rainfall: 7.625582464007794
+Evaporation: 0.5690160811969802
+Sunshine: 3.6606797617920614
+WindGustDir: ENE
+WindGustSpeed: 37.81471330128903
+WindDir9am: SSE
+WindDir3pm: SSW
+WindSpeed9am: 16.895101658845437
+WindSpeed3pm: 14.862053807542663
+Humidity9am: 43.22835071163407
+Humidity3pm: 72.73016073205969
+Pressure9am: 1018.6384081116578
+Pressure3pm: 1010.6973606480801
+Cloud9am: 1.168426219659568
+Cloud3pm: 4.074422264578138
+Temp9am: 25.17703847223641
+Temp3pm: 36.40946201548854
+RainToday: Yes
+Prediction (RainTomorrow): 54.83%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:55:59.019291 ---
+Location: Cooch Behar
+MinTemp: 19.169035281611677
+MaxTemp: 29.0136538953491
+Rainfall: 18.656445212115095
+Evaporation: 3.152399257589659
+Sunshine: 5.797758628944914
+WindGustDir: SE
+WindGustSpeed: 25.01665335796946
+WindDir9am: S
+WindDir3pm: W
+WindSpeed9am: 7.057406210400523
+WindSpeed3pm: 9.635481039249598
+Humidity9am: 83.43177761471672
+Humidity3pm: 30.712286429598773
+Pressure9am: 1018.8911569854613
+Pressure3pm: 1003.2867918481364
+Cloud9am: 0.0736412876321042
+Cloud3pm: 2.9279341295605334
+Temp9am: 32.844806429449676
+Temp3pm: 30.69566379943605
+RainToday: No
+Prediction (RainTomorrow): 8.43%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:00.035732 ---
+Location: Nadia
+MinTemp: 14.722719539741608
+MaxTemp: 25.993325959907075
+Rainfall: 10.96522970814517
+Evaporation: 1.744416650811964
+Sunshine: 0.3430329213224881
+WindGustDir: ENE
+WindGustSpeed: 25.691837172891496
+WindDir9am: SE
+WindDir3pm: N
+WindSpeed9am: 16.660978103407984
+WindSpeed3pm: 16.740534811181053
+Humidity9am: 62.99076043793145
+Humidity3pm: 34.457638666832366
+Pressure9am: 1002.85031082933
+Pressure3pm: 1004.6135842912457
+Cloud9am: 6.240036212614489
+Cloud3pm: 0.39924431835729024
+Temp9am: 33.00432419769197
+Temp3pm: 34.62402693928475
+RainToday: No
+Prediction (RainTomorrow): 9.59%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:01.067987 ---
+Location: Alipurduar
+MinTemp: 22.713805108389593
+MaxTemp: 31.1315881535718
+Rainfall: 19.55916308389537
+Evaporation: 1.728981667817614
+Sunshine: 4.928329072847182
+WindGustDir: W
+WindGustSpeed: 29.078359456768876
+WindDir9am: SE
+WindDir3pm: NNW
+WindSpeed9am: 11.52390281690794
+WindSpeed3pm: 19.988270830460998
+Humidity9am: 40.62504663289814
+Humidity3pm: 51.61961234272265
+Pressure9am: 1006.9255843375918
+Pressure3pm: 1002.002800279135
+Cloud9am: 3.213711940174173
+Cloud3pm: 3.0536312221985824
+Temp9am: 16.770955909964133
+Temp3pm: 36.964919396019454
+RainToday: Yes
+Prediction (RainTomorrow): 56.36%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:02.007512 ---
+Location: Bankura
+MinTemp: 12.495941982385261
+MaxTemp: 28.61722259186262
+Rainfall: 13.536391789593134
+Evaporation: 6.155183774893503
+Sunshine: 9.024985487525644
+WindGustDir: S
+WindGustSpeed: 49.676895272314155
+WindDir9am: SW
+WindDir3pm: SW
+WindSpeed9am: 6.873962903993107
+WindSpeed3pm: 11.990485539678692
+Humidity9am: 77.27867069421356
+Humidity3pm: 64.60284077256077
+Pressure9am: 1018.963128152186
+Pressure3pm: 1012.2551599836631
+Cloud9am: 2.509939425948759
+Cloud3pm: 5.723701722694362
+Temp9am: 31.458220945326364
+Temp3pm: 33.52029225867669
+RainToday: Yes
+Prediction (RainTomorrow): 54.52%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:02.950670 ---
+Location: Hooghly
+MinTemp: 15.795711509985571
+MaxTemp: 36.49835894596746
+Rainfall: 2.715769758773654
+Evaporation: 5.891160944729058
+Sunshine: 2.5846221533396463
+WindGustDir: S
+WindGustSpeed: 32.90590254281752
+WindDir9am: N
+WindDir3pm: ENE
+WindSpeed9am: 15.028775107343002
+WindSpeed3pm: 8.780289311549254
+Humidity9am: 32.56969444358394
+Humidity3pm: 56.236526634318764
+Pressure9am: 1012.8985123501798
+Pressure3pm: 1016.597231663134
+Cloud9am: 2.442121326383048
+Cloud3pm: 1.5710680273184785
+Temp9am: 20.22163845876816
+Temp3pm: 28.41927357768749
+RainToday: Yes
+Prediction (RainTomorrow): 55.03%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:03.803819 ---
+Location: Purba Medinipur
+MinTemp: 18.26954770082189
+MaxTemp: 33.112265993346895
+Rainfall: 13.319470768712527
+Evaporation: 5.499888019462538
+Sunshine: 4.501330388623405
+WindGustDir: NE
+WindGustSpeed: 24.776386792564885
+WindDir9am: N
+WindDir3pm: WNW
+WindSpeed9am: 10.80685799823894
+WindSpeed3pm: 14.501918521989374
+Humidity9am: 41.09720816869649
+Humidity3pm: 84.20806679091837
+Pressure9am: 1018.7326414165976
+Pressure3pm: 1006.8490680056045
+Cloud9am: 1.1196908914026533
+Cloud3pm: 5.929132445380926
+Temp9am: 27.23518777484755
+Temp3pm: 26.65659132363311
+RainToday: No
+Prediction (RainTomorrow): 8.51%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:04.724955 ---
+Location: Alipurduar
+MinTemp: 13.539186520200182
+MaxTemp: 30.401569839789538
+Rainfall: 10.826542643053681
+Evaporation: 2.113998552198144
+Sunshine: 4.291753576429711
+WindGustDir: ESE
+WindGustSpeed: 31.351882835816767
+WindDir9am: WNW
+WindDir3pm: SSE
+WindSpeed9am: 15.551470115151492
+WindSpeed3pm: 19.372778850155473
+Humidity9am: 49.461618057028076
+Humidity3pm: 72.21446898126092
+Pressure9am: 1019.8189457639725
+Pressure3pm: 1006.9354915055278
+Cloud9am: 1.0618139900884165
+Cloud3pm: 6.014446284468352
+Temp9am: 28.786114225084226
+Temp3pm: 37.482834025032076
+RainToday: No
+Prediction (RainTomorrow): 7.90%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:05.723391 ---
+Location: Jhargram
+MinTemp: 20.350705748557214
+MaxTemp: 26.406757783609986
+Rainfall: 1.393572570250854
+Evaporation: 2.501144138826734
+Sunshine: 6.055369658029535
+WindGustDir: ENE
+WindGustSpeed: 20.165317775672406
+WindDir9am: SSW
+WindDir3pm: WNW
+WindSpeed9am: 6.524590378879168
+WindSpeed3pm: 5.081298880935806
+Humidity9am: 32.36214718020338
+Humidity3pm: 89.18747862242778
+Pressure9am: 1002.1699665718951
+Pressure3pm: 1007.4142188422803
+Cloud9am: 4.624557925229004
+Cloud3pm: 6.410868300541195
+Temp9am: 34.73204482163688
+Temp3pm: 39.26066549758897
+RainToday: No
+Prediction (RainTomorrow): 8.28%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:06.677156 ---
+Location: Jalpaiguri
+MinTemp: 12.81751194486676
+MaxTemp: 30.92925652258839
+Rainfall: 3.737890139741813
+Evaporation: 8.685305515934042
+Sunshine: 3.0862066663426635
+WindGustDir: WSW
+WindGustSpeed: 23.24881055320673
+WindDir9am: E
+WindDir3pm: WSW
+WindSpeed9am: 6.487030707947209
+WindSpeed3pm: 15.241936597689035
+Humidity9am: 64.22141140599858
+Humidity3pm: 78.94756676530372
+Pressure9am: 1009.9992956284943
+Pressure3pm: 1003.0120839157748
+Cloud9am: 6.733770081596445
+Cloud3pm: 1.2331123301597815
+Temp9am: 30.529786007499627
+Temp3pm: 36.13552534171595
+RainToday: No
+Prediction (RainTomorrow): 7.04%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:07.543052 ---
+Location: Purba Medinipur
+MinTemp: 12.712371697885274
+MaxTemp: 29.74522840626389
+Rainfall: 10.300986085896275
+Evaporation: 1.688750092507476
+Sunshine: 8.580047230805919
+WindGustDir: WSW
+WindGustSpeed: 46.943231715954354
+WindDir9am: NNW
+WindDir3pm: W
+WindSpeed9am: 6.148650158616009
+WindSpeed3pm: 7.551973912088812
+Humidity9am: 69.33081779623771
+Humidity3pm: 75.17634468785016
+Pressure9am: 1017.675336153215
+Pressure3pm: 1016.2016740387587
+Cloud9am: 7.684128242891253
+Cloud3pm: 0.02055779435109084
+Temp9am: 20.807254033848714
+Temp3pm: 31.09048984450944
+RainToday: No
+Prediction (RainTomorrow): 7.99%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:08.540051 ---
+Location: Alipurduar
+MinTemp: 16.14799234774609
+MaxTemp: 38.37412911436527
+Rainfall: 15.287689319765542
+Evaporation: 6.449857871412258
+Sunshine: 9.7796432540779
+WindGustDir: WSW
+WindGustSpeed: 38.40194118040135
+WindDir9am: NNE
+WindDir3pm: ESE
+WindSpeed9am: 17.219268526810538
+WindSpeed3pm: 14.211481756579124
+Humidity9am: 84.53940090750743
+Humidity3pm: 34.45707728769226
+Pressure9am: 1014.4716579377921
+Pressure3pm: 1011.8954052352451
+Cloud9am: 4.875663524209011
+Cloud3pm: 0.5845282612637801
+Temp9am: 18.030840631966093
+Temp3pm: 29.88365795363427
+RainToday: No
+Prediction (RainTomorrow): 7.76%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:09.502325 ---
+Location: Howrah
+MinTemp: 15.073472298101226
+MaxTemp: 25.649102344255226
+Rainfall: 13.819834410871703
+Evaporation: 3.1802321447430195
+Sunshine: 8.853119598678495
+WindGustDir: NNE
+WindGustSpeed: 40.8941370629572
+WindDir9am: NNW
+WindDir3pm: SE
+WindSpeed9am: 14.361197332508151
+WindSpeed3pm: 11.22124073384079
+Humidity9am: 67.20598587322073
+Humidity3pm: 32.2969400666047
+Pressure9am: 1016.674909598724
+Pressure3pm: 1002.246834638431
+Cloud9am: 4.332935556091918
+Cloud3pm: 7.740151659169253
+Temp9am: 22.204779308302317
+Temp3pm: 28.463256894682967
+RainToday: Yes
+Prediction (RainTomorrow): 54.31%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:10.499588 ---
+Location: Kolkata
+MinTemp: 12.439728315007525
+MaxTemp: 26.064259383650718
+Rainfall: 4.1334825804577395
+Evaporation: 1.043652548458709
+Sunshine: 2.1292546923391606
+WindGustDir: ENE
+WindGustSpeed: 38.494545082929605
+WindDir9am: WSW
+WindDir3pm: SSE
+WindSpeed9am: 19.1802323366459
+WindSpeed3pm: 13.22728925458119
+Humidity9am: 71.53960674624898
+Humidity3pm: 63.72075990756942
+Pressure9am: 1007.555723941181
+Pressure3pm: 1002.1874445267139
+Cloud9am: 3.6477307928818457
+Cloud3pm: 0.8502185158666764
+Temp9am: 28.315259360589284
+Temp3pm: 20.391489188210873
+RainToday: No
+Prediction (RainTomorrow): 8.73%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:11.437335 ---
+Location: Cooch Behar
+MinTemp: 12.964725051368664
+MaxTemp: 28.752454689324136
+Rainfall: 6.651832768742018
+Evaporation: 8.32782877580965
+Sunshine: 0.8771070345433163
+WindGustDir: W
+WindGustSpeed: 48.123820124842155
+WindDir9am: SW
+WindDir3pm: ENE
+WindSpeed9am: 14.432970746837334
+WindSpeed3pm: 13.963141782011673
+Humidity9am: 43.70276078874639
+Humidity3pm: 44.76621617657955
+Pressure9am: 1018.8631145558763
+Pressure3pm: 1013.8543627852207
+Cloud9am: 2.0161056538580615
+Cloud3pm: 0.3918474722662024
+Temp9am: 31.95189060529477
+Temp3pm: 21.983866035627692
+RainToday: No
+Prediction (RainTomorrow): 7.34%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:12.371554 ---
+Location: Bankura
+MinTemp: 13.141729209477596
+MaxTemp: 36.23063188285882
+Rainfall: 16.05528806687747
+Evaporation: 2.6789338359941297
+Sunshine: 2.4690504627650913
+WindGustDir: S
+WindGustSpeed: 30.111032718981267
+WindDir9am: E
+WindDir3pm: SSE
+WindSpeed9am: 6.25143144235232
+WindSpeed3pm: 9.426409977313263
+Humidity9am: 80.07502746851145
+Humidity3pm: 83.51197644000939
+Pressure9am: 1000.3041443988759
+Pressure3pm: 1001.9193741022996
+Cloud9am: 1.2168716732438218
+Cloud3pm: 0.17214179571351984
+Temp9am: 16.133569962268407
+Temp3pm: 36.9049028363858
+RainToday: Yes
+Prediction (RainTomorrow): 56.48%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:13.269888 ---
+Location: Jalpaiguri
+MinTemp: 14.244769945398001
+MaxTemp: 33.362295372674055
+Rainfall: 5.202423884283025
+Evaporation: 8.313609503993334
+Sunshine: 4.507193742131957
+WindGustDir: NE
+WindGustSpeed: 40.5757403066535
+WindDir9am: E
+WindDir3pm: ESE
+WindSpeed9am: 17.17589207905256
+WindSpeed3pm: 12.821987051369714
+Humidity9am: 69.46820414646419
+Humidity3pm: 45.79696516914785
+Pressure9am: 1019.8651499791779
+Pressure3pm: 1019.4282631673543
+Cloud9am: 7.264065530782687
+Cloud3pm: 7.854633352217687
+Temp9am: 23.935885982666
+Temp3pm: 21.75773903027903
+RainToday: Yes
+Prediction (RainTomorrow): 51.99%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:14.133267 ---
+Location: Nadia
+MinTemp: 11.660876286854142
+MaxTemp: 36.08107412264401
+Rainfall: 2.8480847259015785
+Evaporation: 3.6683270082488892
+Sunshine: 0.9425746076911878
+WindGustDir: SE
+WindGustSpeed: 33.3639949575992
+WindDir9am: SSE
+WindDir3pm: WNW
+WindSpeed9am: 11.725065010594456
+WindSpeed3pm: 9.924603340999052
+Humidity9am: 46.82512346373498
+Humidity3pm: 74.56043241165884
+Pressure9am: 1017.3387797991675
+Pressure3pm: 1010.243821849069
+Cloud9am: 2.508695042680869
+Cloud3pm: 0.1344775268998175
+Temp9am: 29.85980322301322
+Temp3pm: 20.46453201477828
+RainToday: No
+Prediction (RainTomorrow): 9.31%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:15.190380 ---
+Location: Paschim Medinipur
+MinTemp: 23.05379977823969
+MaxTemp: 28.871620601378922
+Rainfall: 5.633687648468375
+Evaporation: 3.1198719303354694
+Sunshine: 6.793330786403012
+WindGustDir: N
+WindGustSpeed: 43.20876753576681
+WindDir9am: WSW
+WindDir3pm: ENE
+WindSpeed9am: 18.462672662975926
+WindSpeed3pm: 10.216879214442294
+Humidity9am: 58.5056321694873
+Humidity3pm: 53.70036512140489
+Pressure9am: 1000.2625633477584
+Pressure3pm: 1014.0758269047336
+Cloud9am: 6.938526550459335
+Cloud3pm: 0.8455400474600525
+Temp9am: 31.480294237373382
+Temp3pm: 21.977553782723355
+RainToday: Yes
+Prediction (RainTomorrow): 59.81%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:16.059707 ---
+Location: Malda
+MinTemp: 21.262185490517872
+MaxTemp: 38.211066426998684
+Rainfall: 13.178249575863973
+Evaporation: 6.136422958734959
+Sunshine: 9.33513932289517
+WindGustDir: S
+WindGustSpeed: 22.431584454874162
+WindDir9am: SW
+WindDir3pm: NW
+WindSpeed9am: 19.920322348735098
+WindSpeed3pm: 18.25529845191504
+Humidity9am: 34.476660205030946
+Humidity3pm: 61.608512424031005
+Pressure9am: 1002.1626583236374
+Pressure3pm: 1016.2431164418183
+Cloud9am: 5.730257654384594
+Cloud3pm: 2.901541666920468
+Temp9am: 16.61303502580535
+Temp3pm: 35.04673626462878
+RainToday: No
+Prediction (RainTomorrow): 7.63%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:16.938714 ---
+Location: Jhargram
+MinTemp: 24.69789494626439
+MaxTemp: 27.16645065150681
+Rainfall: 19.557689277459744
+Evaporation: 5.417053163025716
+Sunshine: 1.7826509635409937
+WindGustDir: E
+WindGustSpeed: 40.39835211230327
+WindDir9am: NW
+WindDir3pm: WSW
+WindSpeed9am: 15.535561732007105
+WindSpeed3pm: 16.093336145200674
+Humidity9am: 48.544531909962224
+Humidity3pm: 81.57176607066175
+Pressure9am: 1019.8704203873837
+Pressure3pm: 1002.0772207005512
+Cloud9am: 6.2028950592614915
+Cloud3pm: 5.249919643914218
+Temp9am: 30.224719552322618
+Temp3pm: 34.06649765686315
+RainToday: Yes
+Prediction (RainTomorrow): 49.44%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:17.790952 ---
+Location: Jalpaiguri
+MinTemp: 12.804683212159055
+MaxTemp: 36.00153387949099
+Rainfall: 12.787908130198783
+Evaporation: 2.3331288706022777
+Sunshine: 7.487725594565035
+WindGustDir: NNE
+WindGustSpeed: 37.40448577824118
+WindDir9am: S
+WindDir3pm: W
+WindSpeed9am: 17.573456660978394
+WindSpeed3pm: 11.937291134692302
+Humidity9am: 33.27722047952713
+Humidity3pm: 81.00996154045086
+Pressure9am: 1018.5543225721444
+Pressure3pm: 1010.1296134450896
+Cloud9am: 3.721272534415051
+Cloud3pm: 0.5882652309505838
+Temp9am: 27.81038261124351
+Temp3pm: 34.602214955381164
+RainToday: Yes
+Prediction (RainTomorrow): 48.31%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:18.795271 ---
+Location: Jhargram
+MinTemp: 11.955960879560454
+MaxTemp: 39.90324696737096
+Rainfall: 11.181919379107352
+Evaporation: 5.924492947828957
+Sunshine: 0.39070405904613636
+WindGustDir: SW
+WindGustSpeed: 33.292741011759155
+WindDir9am: SSE
+WindDir3pm: SSE
+WindSpeed9am: 15.265663010206264
+WindSpeed3pm: 14.694363275534771
+Humidity9am: 62.06704398160723
+Humidity3pm: 46.218320098856026
+Pressure9am: 1002.0008901082936
+Pressure3pm: 1001.308106116498
+Cloud9am: 2.3040082029524065
+Cloud3pm: 4.571025549124172
+Temp9am: 16.972204080373615
+Temp3pm: 33.7939020167212
+RainToday: Yes
+Prediction (RainTomorrow): 58.84%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:19.756964 ---
+Location: Purba Bardhaman
+MinTemp: 15.51451480818577
+MaxTemp: 34.97138131593201
+Rainfall: 19.406227565699616
+Evaporation: 3.4884588205399347
+Sunshine: 4.5870894764391
+WindGustDir: ENE
+WindGustSpeed: 42.201482609259145
+WindDir9am: N
+WindDir3pm: ENE
+WindSpeed9am: 19.772339828523926
+WindSpeed3pm: 15.396909169500601
+Humidity9am: 60.88653083217809
+Humidity3pm: 88.73854303190527
+Pressure9am: 1000.4277191512207
+Pressure3pm: 1004.8534605923728
+Cloud9am: 2.6269227869583283
+Cloud3pm: 0.7499190929320134
+Temp9am: 20.411134886746893
+Temp3pm: 30.234019194101684
+RainToday: Yes
+Prediction (RainTomorrow): 55.33%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:20.772478 ---
+Location: Nadia
+MinTemp: 13.233992656618662
+MaxTemp: 29.774775130429948
+Rainfall: 18.477969903291708
+Evaporation: 5.736131890309596
+Sunshine: 5.425831139727845
+WindGustDir: ENE
+WindGustSpeed: 32.642051659939874
+WindDir9am: WNW
+WindDir3pm: NW
+WindSpeed9am: 11.657432194630676
+WindSpeed3pm: 19.501217241183255
+Humidity9am: 32.90274839236598
+Humidity3pm: 44.47641298325259
+Pressure9am: 1014.7262012029682
+Pressure3pm: 1000.7665792747734
+Cloud9am: 7.242022401653658
+Cloud3pm: 1.3732737765421614
+Temp9am: 20.137463052332286
+Temp3pm: 25.085903889966882
+RainToday: Yes
+Prediction (RainTomorrow): 53.97%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:21.660179 ---
+Location: Howrah
+MinTemp: 12.180355125600649
+MaxTemp: 33.2260896158088
+Rainfall: 19.307876935734825
+Evaporation: 1.4726658950901939
+Sunshine: 3.920562971058288
+WindGustDir: NNE
+WindGustSpeed: 22.450297226249
+WindDir9am: WNW
+WindDir3pm: NW
+WindSpeed9am: 10.052010080076787
+WindSpeed3pm: 10.915440771107896
+Humidity9am: 79.12617873299294
+Humidity3pm: 71.13763177450019
+Pressure9am: 1002.2052282679795
+Pressure3pm: 1017.5139139603152
+Cloud9am: 7.331758243748781
+Cloud3pm: 7.308844997108044
+Temp9am: 20.16182209307737
+Temp3pm: 26.390478435623706
+RainToday: No
+Prediction (RainTomorrow): 6.97%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:22.530397 ---
+Location: Alipurduar
+MinTemp: 17.32920748812368
+MaxTemp: 30.964285270475393
+Rainfall: 17.951892310709848
+Evaporation: 4.699153303397205
+Sunshine: 3.007794042321411
+WindGustDir: SSW
+WindGustSpeed: 26.613105178616806
+WindDir9am: NE
+WindDir3pm: ESE
+WindSpeed9am: 16.601131879521244
+WindSpeed3pm: 13.55835859063483
+Humidity9am: 54.51606723893706
+Humidity3pm: 51.35625984039982
+Pressure9am: 1013.3034514290733
+Pressure3pm: 1015.3313508896591
+Cloud9am: 6.364259557782664
+Cloud3pm: 1.9687707579989695
+Temp9am: 28.00625827078268
+Temp3pm: 24.20397691067913
+RainToday: Yes
+Prediction (RainTomorrow): 52.93%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:23.396387 ---
+Location: Malda
+MinTemp: 23.686241569322092
+MaxTemp: 25.759987568335635
+Rainfall: 3.135235791270641
+Evaporation: 0.29918217473546505
+Sunshine: 7.627016151412992
+WindGustDir: SSW
+WindGustSpeed: 27.377253937501067
+WindDir9am: SE
+WindDir3pm: WSW
+WindSpeed9am: 5.395060508476554
+WindSpeed3pm: 18.358121138202364
+Humidity9am: 63.09779333114131
+Humidity3pm: 70.46242630112451
+Pressure9am: 1004.4441756817672
+Pressure3pm: 1010.3834588809025
+Cloud9am: 3.1671460774946754
+Cloud3pm: 7.818670179711683
+Temp9am: 21.517971361750053
+Temp3pm: 24.76382765831724
+RainToday: No
+Prediction (RainTomorrow): 7.45%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:24.330961 ---
+Location: Hooghly
+MinTemp: 24.995651331227506
+MaxTemp: 26.295304475068257
+Rainfall: 6.580741491170581
+Evaporation: 7.602216739349169
+Sunshine: 1.6978142463289125
+WindGustDir: NNW
+WindGustSpeed: 30.446907235058763
+WindDir9am: NNE
+WindDir3pm: NE
+WindSpeed9am: 7.109167974284182
+WindSpeed3pm: 12.087064334321354
+Humidity9am: 57.675908134288846
+Humidity3pm: 87.91156606201176
+Pressure9am: 1019.7362996686511
+Pressure3pm: 1002.374720569065
+Cloud9am: 0.683444622422785
+Cloud3pm: 7.870968925379035
+Temp9am: 31.201600046235708
+Temp3pm: 28.989299560576743
+RainToday: No
+Prediction (RainTomorrow): 7.60%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:25.315729 ---
+Location: Paschim Bardhaman
+MinTemp: 12.04837739127837
+MaxTemp: 26.459494150899726
+Rainfall: 17.6259018646176
+Evaporation: 6.947890536350638
+Sunshine: 3.845600912181737
+WindGustDir: WNW
+WindGustSpeed: 47.84805559372471
+WindDir9am: S
+WindDir3pm: SW
+WindSpeed9am: 5.987427861413403
+WindSpeed3pm: 16.2493470248825
+Humidity9am: 69.21423953953294
+Humidity3pm: 67.74771286616071
+Pressure9am: 1016.6904060974583
+Pressure3pm: 1008.0370176145406
+Cloud9am: 5.98435446996275
+Cloud3pm: 4.362392119418042
+Temp9am: 29.296573087783077
+Temp3pm: 29.360973731226878
+RainToday: Yes
+Prediction (RainTomorrow): 55.08%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:26.357366 ---
+Location: Purba Bardhaman
+MinTemp: 21.0394533702211
+MaxTemp: 35.29161818991369
+Rainfall: 16.17983240965804
+Evaporation: 4.909538576257015
+Sunshine: 1.9399551734725407
+WindGustDir: SSW
+WindGustSpeed: 29.550695239312496
+WindDir9am: ESE
+WindDir3pm: WSW
+WindSpeed9am: 7.720630094685108
+WindSpeed3pm: 19.35488598634799
+Humidity9am: 38.91533183675236
+Humidity3pm: 83.8537217294369
+Pressure9am: 1005.6833566185118
+Pressure3pm: 1002.7532553951089
+Cloud9am: 4.626631000543029
+Cloud3pm: 2.858071649340843
+Temp9am: 30.078144493022805
+Temp3pm: 29.274615859791915
+RainToday: No
+Prediction (RainTomorrow): 6.90%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:27.314239 ---
+Location: Cooch Behar
+MinTemp: 24.732954592984143
+MaxTemp: 30.768754237613486
+Rainfall: 16.326491826415204
+Evaporation: 3.4651165675312425
+Sunshine: 7.109190695837205
+WindGustDir: ESE
+WindGustSpeed: 23.28551752317226
+WindDir9am: NE
+WindDir3pm: WNW
+WindSpeed9am: 19.810345346716126
+WindSpeed3pm: 17.230398600492144
+Humidity9am: 60.66508179103354
+Humidity3pm: 55.294787105539044
+Pressure9am: 1004.3114771606994
+Pressure3pm: 1014.780961062681
+Cloud9am: 6.447720721006803
+Cloud3pm: 4.395305597148308
+Temp9am: 30.50558531522784
+Temp3pm: 39.48982019606404
+RainToday: No
+Prediction (RainTomorrow): 8.66%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:28.252120 ---
+Location: Purulia
+MinTemp: 24.471511612851515
+MaxTemp: 38.44719326818644
+Rainfall: 7.003685044484382
+Evaporation: 1.5965925238769085
+Sunshine: 7.316646070349141
+WindGustDir: N
+WindGustSpeed: 47.920347475200074
+WindDir9am: ENE
+WindDir3pm: ENE
+WindSpeed9am: 19.945363886088728
+WindSpeed3pm: 9.338286662133967
+Humidity9am: 32.33419045091752
+Humidity3pm: 51.01831387122449
+Pressure9am: 1002.7154960345047
+Pressure3pm: 1017.656611272985
+Cloud9am: 4.399012754166806
+Cloud3pm: 1.466014248042347
+Temp9am: 30.33881640467627
+Temp3pm: 27.59261911589337
+RainToday: Yes
+Prediction (RainTomorrow): 56.07%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:29.200968 ---
+Location: Purulia
+MinTemp: 13.248012162138782
+MaxTemp: 28.699479951376578
+Rainfall: 9.110974328829414
+Evaporation: 0.6434478811518707
+Sunshine: 5.3423830016799805
+WindGustDir: E
+WindGustSpeed: 38.98639122187719
+WindDir9am: S
+WindDir3pm: E
+WindSpeed9am: 5.9001015263182115
+WindSpeed3pm: 14.667865514051323
+Humidity9am: 69.34253646029998
+Humidity3pm: 87.16241766109897
+Pressure9am: 1012.2476774089881
+Pressure3pm: 1009.500696841709
+Cloud9am: 2.5395229872550864
+Cloud3pm: 1.0305951005857201
+Temp9am: 27.093667039956628
+Temp3pm: 33.839580855583215
+RainToday: Yes
+Prediction (RainTomorrow): 52.20%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:30.238267 ---
+Location: Hooghly
+MinTemp: 11.887097703062004
+MaxTemp: 39.58867669502633
+Rainfall: 2.805832371039254
+Evaporation: 7.288346260841664
+Sunshine: 7.499810554428653
+WindGustDir: WNW
+WindGustSpeed: 22.73638068289784
+WindDir9am: W
+WindDir3pm: ENE
+WindSpeed9am: 17.7428582253391
+WindSpeed3pm: 17.099406163114125
+Humidity9am: 78.91659572489462
+Humidity3pm: 88.979312275035
+Pressure9am: 1015.562861884501
+Pressure3pm: 1018.380986771335
+Cloud9am: 5.209856150182001
+Cloud3pm: 7.651257869505281
+Temp9am: 17.770131784884274
+Temp3pm: 35.341108886690684
+RainToday: Yes
+Prediction (RainTomorrow): 55.45%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:31.197369 ---
+Location: Howrah
+MinTemp: 22.72359453398257
+MaxTemp: 39.22031870608434
+Rainfall: 0.6937332203983115
+Evaporation: 4.860954366485608
+Sunshine: 4.471242120342506
+WindGustDir: E
+WindGustSpeed: 44.807650249154314
+WindDir9am: NW
+WindDir3pm: W
+WindSpeed9am: 18.286295922833432
+WindSpeed3pm: 14.059303972619958
+Humidity9am: 55.28652903236612
+Humidity3pm: 55.82531448209319
+Pressure9am: 1005.494390925549
+Pressure3pm: 1000.8825481915961
+Cloud9am: 4.662484768287896
+Cloud3pm: 3.491929609008107
+Temp9am: 25.053739330820335
+Temp3pm: 32.853975192545214
+RainToday: No
+Prediction (RainTomorrow): 6.28%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:32.259692 ---
+Location: Cooch Behar
+MinTemp: 21.2359635582596
+MaxTemp: 37.39732889372853
+Rainfall: 3.7526292120903793
+Evaporation: 4.220952450802812
+Sunshine: 2.3580687493040564
+WindGustDir: S
+WindGustSpeed: 49.490620303523464
+WindDir9am: W
+WindDir3pm: WNW
+WindSpeed9am: 16.110063261402082
+WindSpeed3pm: 9.99744243926852
+Humidity9am: 71.01927080446723
+Humidity3pm: 41.44539978956537
+Pressure9am: 1018.4262533220641
+Pressure3pm: 1003.1616087914539
+Cloud9am: 6.68512279064532
+Cloud3pm: 0.32340563050555193
+Temp9am: 33.58263118779154
+Temp3pm: 26.996838875206137
+RainToday: No
+Prediction (RainTomorrow): 7.71%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:33.219721 ---
+Location: Darjeeling
+MinTemp: 21.71010351878015
+MaxTemp: 28.451486428720266
+Rainfall: 3.4987718671957713
+Evaporation: 1.560661867638734
+Sunshine: 5.813138452224523
+WindGustDir: NW
+WindGustSpeed: 42.65052559401025
+WindDir9am: SE
+WindDir3pm: E
+WindSpeed9am: 17.133906387009763
+WindSpeed3pm: 17.909371586487282
+Humidity9am: 36.135984656677074
+Humidity3pm: 80.55670217470377
+Pressure9am: 1012.6703489204375
+Pressure3pm: 1019.5817589013706
+Cloud9am: 4.412077231384549
+Cloud3pm: 3.757357231956637
+Temp9am: 25.015318699790267
+Temp3pm: 30.289279628830208
+RainToday: No
+Prediction (RainTomorrow): 7.49%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:34.262594 ---
+Location: North 24 Parganas
+MinTemp: 12.07580856107289
+MaxTemp: 38.30228052932027
+Rainfall: 17.466182921828846
+Evaporation: 8.718164693470209
+Sunshine: 4.950143654399151
+WindGustDir: ESE
+WindGustSpeed: 30.864310195481917
+WindDir9am: W
+WindDir3pm: N
+WindSpeed9am: 10.930048905265124
+WindSpeed3pm: 7.4098087036705
+Humidity9am: 65.28269095896425
+Humidity3pm: 75.14139192176997
+Pressure9am: 1019.3362241211314
+Pressure3pm: 1015.3881803133248
+Cloud9am: 5.524218343610746
+Cloud3pm: 0.7537056533601296
+Temp9am: 30.167294874989036
+Temp3pm: 24.727659376983496
+RainToday: No
+Prediction (RainTomorrow): 7.83%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:35.218079 ---
+Location: Malda
+MinTemp: 21.73652059312896
+MaxTemp: 37.544043024070945
+Rainfall: 1.4761475554385273
+Evaporation: 4.480371232472927
+Sunshine: 9.363935198866542
+WindGustDir: WNW
+WindGustSpeed: 21.00960641897127
+WindDir9am: W
+WindDir3pm: SW
+WindSpeed9am: 12.96487894126437
+WindSpeed3pm: 13.040087522836078
+Humidity9am: 31.927074736317017
+Humidity3pm: 31.820227791415398
+Pressure9am: 1009.6150659685744
+Pressure3pm: 1019.2803821259264
+Cloud9am: 1.2171089984092474
+Cloud3pm: 6.692384682261636
+Temp9am: 34.545141315490625
+Temp3pm: 29.313137974392447
+RainToday: No
+Prediction (RainTomorrow): 7.31%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:36.186646 ---
+Location: Jhargram
+MinTemp: 15.088886389323953
+MaxTemp: 31.95156562332568
+Rainfall: 3.3384653429759648
+Evaporation: 6.149671578394579
+Sunshine: 9.187008299168633
+WindGustDir: WSW
+WindGustSpeed: 45.09421558144898
+WindDir9am: WNW
+WindDir3pm: NW
+WindSpeed9am: 6.835573136759989
+WindSpeed3pm: 11.876202335687278
+Humidity9am: 78.715787819922
+Humidity3pm: 74.13659640991119
+Pressure9am: 1002.9730261680288
+Pressure3pm: 1005.5871795103853
+Cloud9am: 0.711314059645904
+Cloud3pm: 6.389761017599563
+Temp9am: 15.388143010043663
+Temp3pm: 28.4902489754602
+RainToday: Yes
+Prediction (RainTomorrow): 54.33%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:37.085023 ---
+Location: Cooch Behar
+MinTemp: 14.36163451806081
+MaxTemp: 25.49579810480225
+Rainfall: 5.910966953401189
+Evaporation: 5.790624974394279
+Sunshine: 1.9277002861770065
+WindGustDir: SW
+WindGustSpeed: 21.497004874129058
+WindDir9am: SW
+WindDir3pm: SSW
+WindSpeed9am: 13.633451706972112
+WindSpeed3pm: 5.175165690947188
+Humidity9am: 63.05994665239042
+Humidity3pm: 71.73119256929228
+Pressure9am: 1014.0660001785571
+Pressure3pm: 1008.18760643486
+Cloud9am: 4.35593148176465
+Cloud3pm: 5.840220684046801
+Temp9am: 29.96037050818486
+Temp3pm: 25.518363584354834
+RainToday: Yes
+Prediction (RainTomorrow): 53.71%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:37.944702 ---
+Location: Purba Bardhaman
+MinTemp: 18.252598451508582
+MaxTemp: 25.43039187752925
+Rainfall: 16.738671107271202
+Evaporation: 1.3484077601787015
+Sunshine: 4.107185076578455
+WindGustDir: SSW
+WindGustSpeed: 31.27495464214864
+WindDir9am: NNE
+WindDir3pm: WSW
+WindSpeed9am: 11.999627011069151
+WindSpeed3pm: 11.082385888739196
+Humidity9am: 65.72467554672835
+Humidity3pm: 55.38561445447084
+Pressure9am: 1015.4873945083004
+Pressure3pm: 1004.9450552943272
+Cloud9am: 7.17615282053976
+Cloud3pm: 7.523133013654404
+Temp9am: 15.514335754391315
+Temp3pm: 20.11293507014836
+RainToday: Yes
+Prediction (RainTomorrow): 50.81%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:38.738190 ---
+Location: Paschim Medinipur
+MinTemp: 20.953201982175074
+MaxTemp: 28.266552111822573
+Rainfall: 15.416517723354984
+Evaporation: 0.17001915939883872
+Sunshine: 2.3936330439043174
+WindGustDir: ESE
+WindGustSpeed: 36.80077922272489
+WindDir9am: WSW
+WindDir3pm: SE
+WindSpeed9am: 7.396739990077451
+WindSpeed3pm: 6.59083265465234
+Humidity9am: 61.52752060790355
+Humidity3pm: 55.009203476655244
+Pressure9am: 1006.6111400541287
+Pressure3pm: 1007.4030098920048
+Cloud9am: 7.296696498048676
+Cloud3pm: 1.686299320728006
+Temp9am: 23.645403963649304
+Temp3pm: 21.64269518731964
+RainToday: Yes
+Prediction (RainTomorrow): 58.71%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:39.482498 ---
+Location: Purba Medinipur
+MinTemp: 21.360645979582195
+MaxTemp: 39.7998833764128
+Rainfall: 6.042454421374055
+Evaporation: 5.594398138650432
+Sunshine: 9.234854910273889
+WindGustDir: SSE
+WindGustSpeed: 34.27569252656298
+WindDir9am: SSE
+WindDir3pm: WSW
+WindSpeed9am: 10.47946349481683
+WindSpeed3pm: 17.547739336683726
+Humidity9am: 63.155257972818006
+Humidity3pm: 86.39989866383715
+Pressure9am: 1016.749477451678
+Pressure3pm: 1012.393092928188
+Cloud9am: 6.8765305694146965
+Cloud3pm: 1.379663682247001
+Temp9am: 34.73088854214734
+Temp3pm: 26.91575680621167
+RainToday: Yes
+Prediction (RainTomorrow): 52.17%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:40.203210 ---
+Location: Murshidabad
+MinTemp: 16.61214524642564
+MaxTemp: 25.25713309149018
+Rainfall: 9.551535399094053
+Evaporation: 6.1576343642292475
+Sunshine: 4.138395380054351
+WindGustDir: NE
+WindGustSpeed: 42.33820885299878
+WindDir9am: SW
+WindDir3pm: WSW
+WindSpeed9am: 11.387275678650422
+WindSpeed3pm: 13.184234860095088
+Humidity9am: 68.04143261299623
+Humidity3pm: 72.80303513081054
+Pressure9am: 1000.7076229181537
+Pressure3pm: 1017.4873222820434
+Cloud9am: 1.7873894038398097
+Cloud3pm: 3.408301710189729
+Temp9am: 32.84922720059059
+Temp3pm: 26.756601959847433
+RainToday: Yes
+Prediction (RainTomorrow): 55.33%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:40.898977 ---
+Location: Murshidabad
+MinTemp: 16.51486027967297
+MaxTemp: 30.290200866747366
+Rainfall: 15.659889559653767
+Evaporation: 8.153273606261973
+Sunshine: 3.316519623809598
+WindGustDir: SE
+WindGustSpeed: 45.76603384078485
+WindDir9am: WSW
+WindDir3pm: E
+WindSpeed9am: 5.169816158864666
+WindSpeed3pm: 19.601278585820783
+Humidity9am: 75.32476005240753
+Humidity3pm: 33.60583116484587
+Pressure9am: 1011.3000452664254
+Pressure3pm: 1008.3953505011428
+Cloud9am: 3.3785933211999284
+Cloud3pm: 3.2551351816043192
+Temp9am: 22.13747128142133
+Temp3pm: 25.065633575207006
+RainToday: Yes
+Prediction (RainTomorrow): 57.14%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:41.710906 ---
+Location: Alipurduar
+MinTemp: 16.527673973115604
+MaxTemp: 27.095294611694715
+Rainfall: 3.3155951100748715
+Evaporation: 3.659588735035081
+Sunshine: 8.843159248248286
+WindGustDir: NNW
+WindGustSpeed: 27.921806472411667
+WindDir9am: S
+WindDir3pm: NW
+WindSpeed9am: 9.103660157366967
+WindSpeed3pm: 18.266927684524966
+Humidity9am: 36.89728277777459
+Humidity3pm: 48.08142781144204
+Pressure9am: 1008.3840583774822
+Pressure3pm: 1016.318764834921
+Cloud9am: 1.877867898269158
+Cloud3pm: 3.4703822810023333
+Temp9am: 31.14038429922221
+Temp3pm: 37.48602950914271
+RainToday: No
+Prediction (RainTomorrow): 7.96%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:42.564017 ---
+Location: Kolkata
+MinTemp: 15.012436892446512
+MaxTemp: 28.358530733377634
+Rainfall: 7.260118004081222
+Evaporation: 0.023757235514578756
+Sunshine: 4.978444967797319
+WindGustDir: WNW
+WindGustSpeed: 43.6349433830822
+WindDir9am: ENE
+WindDir3pm: WNW
+WindSpeed9am: 7.255642967779917
+WindSpeed3pm: 5.236885777782293
+Humidity9am: 76.80752965588276
+Humidity3pm: 69.60536690472375
+Pressure9am: 1002.7125765833573
+Pressure3pm: 1003.1818048990457
+Cloud9am: 3.353530134495548
+Cloud3pm: 3.5525817386521146
+Temp9am: 20.085988921804834
+Temp3pm: 35.12829927261577
+RainToday: No
+Prediction (RainTomorrow): 8.32%
+--------------------------------------------------
+
+--- Prediction Run at 2025-09-17 20:56:43.780794 ---
+Location: Alipurduar
+MinTemp: 18.5697927157691
+MaxTemp: 39.38962560179994
+Rainfall: 1.3312219160700112
+Evaporation: 2.4376772879708195
+Sunshine: 3.170806439385582
+WindGustDir: ESE
+WindGustSpeed: 34.01833265481002
+WindDir9am: W
+WindDir3pm: N
+WindSpeed9am: 5.065130121825404
+WindSpeed3pm: 13.63086589760666
+Humidity9am: 69.6254628787588
+Humidity3pm: 33.215823141296006
+Pressure9am: 1011.9991559361479
+Pressure3pm: 1016.3275261932541
+Cloud9am: 5.58839164813862
+Cloud3pm: 2.001057232951741
+Temp9am: 19.366070033501067
+Temp3pm: 35.44773769095508
+RainToday: No
+Prediction (RainTomorrow): 8.39%
+--------------------------------------------------
