@@ -1,0 +1,41 @@
+Features
+
+Age: Patient’s age (in years).
+
+Gender: Male / Female.
+
+Medical Condition: Reported health condition (e.g., Diabetes, Hypertension, Asthma, Obesity, Healthy).
+
+Glucose: Blood glucose level.
+
+Blood Pressure: Blood pressure measurement.
+
+BMI: Body Mass Index.
+
+Oxygen Saturation: Blood oxygen saturation level.
+
+LengthOfStay: Hospital length of stay (days).
+
+Cholesterol: Cholesterol level.
+
+Triglycerides: Triglyceride level.
+
+HbA1c: Hemoglobin A1c (glycated hemoglobin).
+
+Smoking: Smoking status (0 = Non-smoker, 1 = Smoker).
+
+Alcohol: Alcohol consumption (0 = No, 1 = Yes).
+
+Physical Activity: Physical activity (approx. hours/week).
+
+Diet Score: Diet quality score (numeric).
+
+Family History: Family medical history (0 = No, 1 = Yes).
+
+Stress Level: Stress level (numeric scale).
+
+Sleep Hours: Average sleep hours per day.
+
+random_notes: Random notes (lorem / ipsum / ###).
+
+noise_col: Noise column (unrelated random values). 
