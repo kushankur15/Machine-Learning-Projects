@@ -1,0 +1,6 @@
+The Main Boosting Types and What They Mean
+Value	Full Name	Description	When to Use
+'gbdt'	Gradient Boosted Decision Trees	The default method — classic gradient boosting like in XGBoost. Builds trees sequentially to minimize residual errors.	 Best general-purpose choice for most datasets
+'dart'	Dropouts meet Multiple Additive Regression Trees	Similar to GBDT but randomly drops some trees during training (like dropout in neural nets). Helps reduce overfitting.	 Use when you have overfitting issues
+'goss'	Gradient-based One-Side Sampling	Speeds up training by using only the most important samples (those with large gradients). Skips low-importance data points.	 For very large datasets where training speed matters
+'rf'	Random Forest (LightGBM’s variant)	Uses random subsampling of both data and features like a RandomForest. It’s not boosting, but a random forest ensemble.	 For experimentation or when you want bagging instead of boosting
